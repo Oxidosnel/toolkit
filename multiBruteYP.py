@@ -1,7 +1,7 @@
 #/usr/bin/env python
 #conding=utf8
 
-__author__ = 'mtfly'
+__author__ = 'he1m4n6a'
 __doc__ = 'brute baidu yunpan privacy share use multi threads'
 
 import requests
